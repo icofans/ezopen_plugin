@@ -1,0 +1,29 @@
+PODS:
+  - ezopen_plugin (0.0.1):
+    - EZOpenSDK (= 4.20.1)
+    - Flutter
+  - EZOpenSDK (4.20.1)
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - ezopen_plugin (from `.symlinks/plugins/ezopen_plugin/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - EZOpenSDK
+
+EXTERNAL SOURCES:
+  ezopen_plugin:
+    :path: ".symlinks/plugins/ezopen_plugin/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  ezopen_plugin: f0278b479581c8328427d6131b3345ccb054a623
+  EZOpenSDK: 25bd449e0f443f82c8778f841b04abce6502bb97
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+
+PODFILE CHECKSUM: 573c4ea1167348931c3d9a31971139a55cab6029
+
+COCOAPODS: 1.11.3
